@@ -19,7 +19,7 @@ This is the pure responsible web design challenge. You don’t need some other f
 
 ### Required Screen Elements: 
 
-* Swipe to slide
+* Swipe to Slide
 * Pager Indicator "**_Don't use Image for it, use only CSS_**"
 * When press the **Skip** button, Display Login Section (BUT, You don't need to make login section)
 
