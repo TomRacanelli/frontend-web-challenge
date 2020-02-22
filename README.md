@@ -11,7 +11,7 @@ This is the pure responsible web design challenge. You don’t need some other f
 * Extensibility
 * Maintainability
 * Documentation & Comment
-* AAdd README.md & Write down some challenge problems processing your project. 
+* Add README.md & Write down some challenge problems processing your project. 
 
 ## Extra details
 * Simple raw HTML, CSS, and Javascript is fine 
