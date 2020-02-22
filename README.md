@@ -11,6 +11,7 @@ This is the pure responsible web design challenge. You don’t need some other f
 * Extensibility
 * Maintainability
 * Documentation & Comment
+* Add README.md for your project
 
 ## Extra details
 * Simple raw HTML, CSS, and Javascript is fine 
@@ -29,9 +30,11 @@ Please check this Sample Video. We don't need all of them, but you have to only 
 
 https://drive.google.com/file/d/1NLEctgNembqzKpzna6E6HtiRjWnEWsP5/view?usp=sharing
 
+## Estimating Time
+2 hours
 
 ## Delivery
-After finish project, please make a pull request.
+After finish project, please share your git repo url to us.
 
 
 Thanks
