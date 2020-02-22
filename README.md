@@ -2,7 +2,7 @@
 
 ## Requirements 
 
-This is the pure responsible web design challenge. You don’t need some other frameworks and libraries. Only we will check your HTML, CSS and Javascript. In attached video, you can see several screens but we don’t need all of them. We only see the first screen. Explain more in details section. 
+This is the pure responsible web design challenge. You don’t need to use some other frameworks. Only we will check your HTML, CSS and Javascript. In attached video, you can see several screens but we don’t need all of them. We only see the first screen. Explain more in details section. 
 
 ## What we expect from your code
 
