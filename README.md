@@ -15,8 +15,8 @@ This is the pure responsible web design challenge. You don’t need some other f
 
 ## Extra details
 * Simple raw HTML, CSS, and Javascript is fine 
-* You're welcome to use Create [React App](https://reactjs.org/docs/create-a-new-react-app.html) or any other tool to bootstrap your project. 
-* Don't use any external functions(Extra button, Pic and so on)
+* You're welcome to use other tool to [bootstrap](https://getbootstrap.com/docs/4.3/getting-started/download/) your project. 
+* Don't use any other libraries and external functions(Extra button, Pic and so on)
 
 ### Required Screen Elements: 
 
