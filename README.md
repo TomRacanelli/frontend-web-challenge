@@ -16,7 +16,7 @@ This is the pure responsible web design challenge. You don’t need some other f
 ## Extra details
 * Simple raw HTML, CSS, and Javascript is fine 
 * You're welcome to use other tools to [bootstrap](https://getbootstrap.com/docs/4.3/getting-started/download/) your project. 
-* Don't use any other libraries and external functions(Extra button, Pic and so on)
+* Don't use any other Framework and external functions(Extra button, Pic and so on)
 
 ### Required Screen Elements: 
 
