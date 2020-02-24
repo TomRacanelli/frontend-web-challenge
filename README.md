@@ -18,7 +18,7 @@ This is the pure responsible web design challenge. You don’t need to use some 
 * You're welcome to use other tools to [bootstrap](https://getbootstrap.com/docs/4.3/getting-started/download/) your project. 
 * Don't use any other Framework and external functions(Extra button, Pic and so on)
 
-### Required Screen Elements: 
+### Required Screen Elements
 
 * Swipe to Slide
 * Pager Indicator "**_Don't use Image for it, use only CSS_**"
