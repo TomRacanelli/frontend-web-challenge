@@ -2,7 +2,7 @@
 
 ## Requirements 
 
-This is the pure responsible web design challenge. You don’t need to use some other frameworks. Only we will check your HTML, CSS and Javascript. In attached video, you can see several screens but we don’t need all of them. We only see the first screen. Explain more in details section. 
+This is the pure responsible web design challenge. You don’t need to use some other frameworks. Only we will check your HTML, CSS and Javascript. In attached video, you can see several screens but we don’t need all of them. We only see the first screen. Explain more in technical description section. 
 
 ## What we expect from your code
 
@@ -12,8 +12,8 @@ This is the pure responsible web design challenge. You don’t need to use some 
 * Maintainability
 * Documentation & Comment
 * Add README.md & Write down some challenge problems processing your project. 
-
-## Extra details
+## Technical Description
+### Details
 * Simple raw HTML, CSS, and Javascript is fine 
 * You're welcome to use other tools to [bootstrap](https://getbootstrap.com/docs/4.3/getting-started/download/) your project. 
 * Don't use any other Framework and external functions(Extra button, Pic and so on)
@@ -30,12 +30,11 @@ Please check this Sample Video. We don't need all of them, but you have to only 
 
 https://drive.google.com/file/d/1NLEctgNembqzKpzna6E6HtiRjWnEWsP5/view?usp=sharing
 
-## Estimating Time
+## Estimate
 2 hours
 
 ## Delivery
-After finish project, please share your git repo url to us.
-
+Share your git repo url to us.
 
 Thanks
 
