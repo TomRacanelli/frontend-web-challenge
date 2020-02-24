@@ -1,0 +1,192 @@
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.container {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.mainContent{
+    overflow: hidden;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 600px;
+    height: 100%;
+}
+
+.splash {
+    position: absolute;
+    width: 600px;
+    height: 100%;
+    animation: contentUp 2s ease-out backwards;
+    animation-delay: 2s;
+    background-color: #eeeeee;
+    z-index: 1;   
+}
+
+
+#slider{
+    position: absolute;
+    float: left;
+    display: flex;
+    flex-direction: column;
+    justify-content: top;
+    transition: all 1s;
+    animation: slideUp 5s;
+    width: 600px;
+    height:  100%;  
+    opacity: 1;
+    z-index: 2;
+}
+
+.logo {
+    position: absolute;
+    width: 10%;
+    height: 10%;
+    left: 45%;
+    top: 50%;
+}
+
+.logoImage {
+    margin-top: -15px;
+    animation: logoUp 2s ease-out backwards;
+    animation-delay: 2s;
+}
+
+.container h3.frame-1 {
+    position: absolute;
+    top: 60%;
+    font-size: 30px;
+    margin-top: -50px;
+    width: 100%;
+    font-weight: 900;
+    text-align: center;
+    color: #000000;
+    animation: textUp 2s ease-out backwards;
+    animation-delay: 2s; 
+}
+
+@keyframes slideUp{
+    0% {        
+        left: 600px;
+        opacity: 0;
+    }
+
+    80% {        
+        left: 600px;
+        opacity: 1;
+    }
+
+    100%{
+        opacity: 1;
+        left: 0px;
+    }
+}
+
+
+
+@keyframes contentUp{
+    0% {
+        background: #ffff00;
+    }
+    100% {
+        background: #eeeeee;
+    }
+}
+
+@keyframes logoUp{
+    0%{
+       margin-top: 0px;
+       transform: scale(1.4);
+    }
+    
+    100%{
+        margin-top: -15px;
+        transform: scale(1);
+    }
+}
+
+@keyframes textUp{
+    0% {        
+        opacity: 0;
+        top: 65%;
+    }
+
+    100%{
+        opacity: 1;
+        top: 60%;
+    }
+}
+
+@keyframes blurFadeInOut{
+    0%{
+        opacity: 0;
+        text-shadow: 0px 0px 40px #fff;
+        transform: scale(0.9);
+    }
+    20%,75%{
+        opacity: 1;
+        text-shadow: 0px 0px 1px #fff;
+        transform: scale(1);
+    }
+    100%{
+        opacity: 0;
+        text-shadow: 0px 0px 50px #fff;
+        transform: scale(0);
+    }
+}
+@keyframes blurFadeIn{
+    0%{
+        opacity: 0;
+        text-shadow: 0px 0px 40px #fff;
+        transform: scale(1.3);
+    }
+    50%{
+        opacity: 0.5;
+        text-shadow: 0px 0px 10px #fff;
+        transform: scale(1.1);
+    }
+    100%{
+        opacity: 1;
+        text-shadow: 0px 0px 1px #fff;
+        transform: scale(1);
+    }
+}
+@keyframes fadeInBack{
+    0%{
+        opacity: 0;
+        transform: scale(0);
+    }
+    50%{
+        opacity: 0.4;
+        transform: scale(2);
+    }
+    100%{
+        opacity: 0.2;
+        transform: scale(5);
+    }
+}
+
+.mouse { fill: #E5E4E3; }
+.tulip { fill: #CC2954; }
+.diamondSc {
+    animation-name: diamondScale;
+    animation-duration: 4s;
+    animation-iteration-count: 1;
+    transform-origin: 50% 50%;
+}
+
+@keyframes diamondScale {
+    0%   { transform: scale(1.2); }
+    50%  { transform: scale(1.2); }
+    100% { transform: scale(1); }
+}
