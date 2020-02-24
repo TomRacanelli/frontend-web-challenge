@@ -34,7 +34,8 @@ https://drive.google.com/file/d/1NLEctgNembqzKpzna6E6HtiRjWnEWsP5/view?usp=shari
 2 hours
 
 ## Delivery
-Share your git repo url to us.
+* Step by step installation guide including unit test steps in Readme.
+* Share your git repo url to us.
 
 Thanks
 
